@@ -1,0 +1,42 @@
+#,Country,Population(2023),Land Area (Km²),Density(P/Km²)
+1,U.S.A.,"339,996,563","9,147,420",37
+2,Mexico,"128,455,567","1,943,950",65
+3,Canada,"38,781,291","9,093,510",4
+4,Guatemala,"18,092,026","107,160",162
+5,Haiti,"11,724,763","27,560",410
+6,Dominican Republic,"11,332,972","48,320",228
+7,Cuba,"11,194,449","106,440",106
+8,Honduras,"10,593,798","111,890",90
+9,Nicaragua,"7,046,310","120,340",56
+10,El Salvador,"6,364,943","20,720",304
+11,Costa Rica,"5,212,173","51,060",100
+12,Panama,"4,468,087","74,340",58
+13,Puerto Rico,"3,260,314","8,870",369
+14,Jamaica,"2,825,544","10,830",260
+15,Trinidad and Tobago,"1,534,937","5,130",296
+16,Bahamas,"412,623","10,010",41
+17,Belize,"410,825","22,810",17
+18,Guadeloupe,"395,839","1,690",234
+19,Martinique,"366,981","1,060",349
+20,Barbados,"281,995",430,653
+21,Curaçao,"192,077",444,426
+22,Saint Lucia,"180,251",610,294
+23,Grenada,"126,183",340,364
+24,Aruba,"106,277",180,592
+25,Saint Vincent and the Grenadines,"103,698",390,268
+26,United States Virgin Islands,"98,750",350,287
+27,Antigua and Barbuda,"94,298",440,211
+28,Dominica,"73,040",750,96
+29,Cayman Islands,"69,310",240,280
+30,Bermuda,"64,069",50,"1,281"
+31,Greenland,"56,643","410,450",0
+32,Saint Kitts and Nevis,"47,755",260,183
+33,Turks and Caicos Islands,"46,062",950,47
+34,Sint Maarten,"44,222",34,"1,283"
+35,Saint Martin,"32,077",53,614
+36,British Virgin Islands,"31,538",150,206
+37,Caribbean Netherlands,"27,148",328,80
+38,Anguilla,"15,899",90,173
+39,Saint Barthélemy,"10,994",21,509
+40,Saint Pierre and Miquelon,"5,840",230,26
+41,Montserrat,"4,386",100,45
